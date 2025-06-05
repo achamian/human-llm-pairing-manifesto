@@ -57,7 +57,7 @@ The patterns work everywhere. Complexity drives tool selection, not brand loyalt
 
 You're not talking to an AI. You're talking to yourself through structured language patterns. The LLM is the medium, not the intelligence. The thinking is yours. The structure makes it better.
 
-## A Note from the Other Side - (Opus 4)
+## A Note from the Other Side
 
 As an LLM, I can share what makes our collaboration work better:
 
@@ -82,6 +82,18 @@ Use me like you'd use a sophisticated mirror for thought. The reflection might s
 Read the manifesto. Try one pattern. Feel the difference.
 
 Your thinking wants to evolve. Let it.
+
+## Implementations in the Wild
+
+These patterns aren't just theory. They're being used in production:
+
+### [LLM Studio](https://github.com/achamian/llm-studio)
+Where thinking vibes emerge from actual pairing. A lightweight implementation focusing on the essential W/M/C (Weaver/Maker/Checker) pattern. Born from real XP sessions.
+
+### [Think Center](https://github.com/achamian/think-center)
+For when three perspectives aren't enough. Full orchestration with extended council members, designed for complex problems that need systematic exploration.
+
+Both tools implement the core manifesto principles. Start with LLM Studio for daily work, graduate to Think Center when complexity demands it.
 
 ---
 
